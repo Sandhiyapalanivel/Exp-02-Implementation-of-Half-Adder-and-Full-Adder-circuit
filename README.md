@@ -81,7 +81,7 @@ RegisterNumber:23012555
 
 
 
-## FULL ADDER RTL VIEW:
+## FULL ADDER TIMING DIAGRAM:
 ![Screenshot (46)](https://github.com/Sandhiyapalanivel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743091/c9c7473b-4ff4-4a72-a65f-4d9ea85aa0d7)
 
 
