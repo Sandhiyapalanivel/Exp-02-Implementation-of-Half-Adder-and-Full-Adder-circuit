@@ -20,12 +20,14 @@ Full adder is a digital circuit used to calculate the sum of three binary bits. 
 
 Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = AB + ACin + BCin
 
- ![image](https://user-images.githubusercontent.com/36288975/163552156-a13e5a56-c638-4110-97d9-8896907c8d25.png)
+![Screenshot (42)](https://github.com/Sandhiyapalanivel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743091/96262bc5-73f9-4a24-ab55-ad8baf7779a6)
+
 
 #### Figure -01 HALF ADDER 
 
+![Screenshot (45)](https://github.com/Sandhiyapalanivel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743091/085bb757-0cb4-4a89-bcb7-a127e20dcb95)
 
-![image](https://user-images.githubusercontent.com/36288975/163552057-b3547877-6d07-45b4-b7e0-bcfebfad9e1d.png)
+
 
 #### Figure -02 FULL ADDER 
 
@@ -38,17 +40,28 @@ If the output is 1, then the led glows.
 Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by:SANDHIYA P 
+RegisterNumber:23012555  
 */
-Logic symbol & Truthtable
-RTL realization
+# HALF ADDER PROGRAM:
 
-### Output:
-### RTL
-### TIMING DIAGRAM
+![Screenshot (44)](https://github.com/Sandhiyapalanivel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743091/75df33a4-8e7c-4c13-9338-5782998126fb)
+
+# FULL ADDER PROGRAM:
+
+![Screenshot (47)](https://github.com/Sandhiyapalanivel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743091/85b8ca04-aa99-4a68-9410-11e2ab087334)
 
 
-### TRUTH TABLE 
+### HALF ADDER TRUTH TABLE:
+
+### FULL ADDER TRUTH TABLE:
+
+## HALF ADDER RTL VIEW:
+![Uploading Screenshot (43).png…]()
+
+
+## FULL ADDER RTL VIEW:
+![Screenshot (46)](https://github.com/Sandhiyapalanivel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743091/c9c7473b-4ff4-4a72-a65f-4d9ea85aa0d7)
+
 
 ### Result:
