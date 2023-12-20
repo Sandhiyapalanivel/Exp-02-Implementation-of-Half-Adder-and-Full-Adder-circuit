@@ -24,8 +24,8 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 
 
 #### Figure -01 HALF ADDER 
+![image](https://github.com/Sandhiyapalanivel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743091/38bd68bb-2593-4b83-be99-d555bac99063)
 
-![Screenshot (45)](https://github.com/Sandhiyapalanivel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743091/085bb757-0cb4-4a89-bcb7-a127e20dcb95)
 
 
 
