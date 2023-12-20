@@ -40,24 +40,45 @@ If the output is 1, then the led glows.
 Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+
 Developed by:SANDHIYA P 
+
 RegisterNumber:23012555  
 */
 # HALF ADDER PROGRAM:
 
 ![Screenshot (44)](https://github.com/Sandhiyapalanivel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743091/75df33a4-8e7c-4c13-9338-5782998126fb)
 
+# HALF ADDER TRUTH TABLE:
+
+
+![image](https://github.com/Sandhiyapalanivel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743091/f945af3d-641c-4678-a33e-41fe7bf59113)
+
+
+# HALF ADDER RTL VIEW:
+
+
+![Screenshot (42)](https://github.com/Sandhiyapalanivel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743091/51ba484d-dc55-4573-87d3-5b6caebfd199)
+
+
+# HALF ADDER TIMING DIAGRAM:
+
+![image](https://github.com/Sandhiyapalanivel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743091/f7f91a5c-17a6-49f0-b551-11ce3823451b)
+
 # FULL ADDER PROGRAM:
 
 ![Screenshot (47)](https://github.com/Sandhiyapalanivel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743091/85b8ca04-aa99-4a68-9410-11e2ab087334)
 
 
-### HALF ADDER TRUTH TABLE:
+# FULL ADDER TRUTH TABLE:
 
-### FULL ADDER TRUTH TABLE:
+![image](https://github.com/Sandhiyapalanivel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743091/f0815a7d-2530-4d6b-8228-aa4410354de8)
 
-## HALF ADDER RTL VIEW:
-![Uploading Screenshot (43).png…]()
+# FULL ADDER RTL VIEW:
+
+![image](https://github.com/Sandhiyapalanivel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743091/567260b0-ac3b-4d63-90f8-e487ddc5eb59)
+
+
 
 
 ## FULL ADDER RTL VIEW:
