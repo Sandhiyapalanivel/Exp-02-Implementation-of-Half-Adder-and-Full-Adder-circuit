@@ -86,3 +86,5 @@ RegisterNumber:23012555
 
 
 ### Result:
+
+   Thus the given logic functions are implemented using and their operations are verified using verilog programming.
