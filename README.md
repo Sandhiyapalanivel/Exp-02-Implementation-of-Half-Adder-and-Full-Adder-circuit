@@ -38,7 +38,7 @@ Program to design a half adder and full adder circuit and verify its truth table
 
 Developed by:SANDHIYA P 
 
-RegisterNumber:23012555  
+RegisterNumber:212223230183
 */
 # HALF ADDER PROGRAM:
 ![Screenshot (44)](https://github.com/Sandhiyapalanivel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743091/75df33a4-8e7c-4c13-9338-5782998126fb)
@@ -65,4 +65,4 @@ RegisterNumber:23012555
 ![Screenshot (46)](https://github.com/Sandhiyapalanivel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743091/c9c7473b-4ff4-4a72-a65f-4d9ea85aa0d7)
 
 ### Result:
-Thus the given logic functions are implemented using and their operations are verified using verilog programming.
+Thus , the half adder and full adder circuits are designed and truth table is verified using quartus software
